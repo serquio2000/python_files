@@ -1,0 +1,17 @@
+str1 = "select a option:"
+str2 = "read file.(1)"
+str3 = "\nadd record.(2)"
+str4 = "insert a date:"
+str5 = "insert a name:"
+str6 = "insert a location:"
+str7 = "insert a breed:"
+str8 = "insert a measure:"
+str9 = "insert a features:"
+str10 = "Could not insert log."
+str11 = "The record has been inserted successfully."
+fl_nam1  = 'date'
+fl_nam2 = 'name'
+fl_nam3 = 'location'
+fl_nam4 = 'breed'
+fl_nam5 = 'measure'
+fl_nam6 = 'features'
